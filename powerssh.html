@@ -1,0 +1,40 @@
+﻿<html>
+<head>
+    <title>PowerSSH v0.3 Pre-Beta4 Terminal</title>
+</head>
+<body>
+    <h1>PowerSSH v0.3 Pre-Beta4 Terminal</h1>
+    <h2>Welcome to PowerSSH Terminal!</h2>
+    <script>
+        function cmd() {
+            var input = prompt("Input Command", "Type Command Here");
+            if (input == "vd") {
+                window.open("VirtualDesktop.html");
+            }
+            else if (input == "brainfuck") {
+                window.open("http://copy.sh/brainfuck");
+            }
+            else if (input == "about") {
+                alert("PowerSSH v0.3 Pre-Beta4  (C)Copyright 2022~2023 LF5 Synergies", "About");
+            }
+            else if (input == "echo") {
+                 alert(input);
+            }
+            else if (inpur == "mc") {
+                window.open("mc.html")
+            }
+            else if (input == "imagex") {
+                 window.open("ms-paint://")
+            }
+            else if (input == "randnum") {
+                 alert(Math.floor((Math.random() * 1919810) + 1));
+            }
+            else {
+                alert('"'+input+'"'+" isn't a command!");
+            }
+        }
+    </script>
+    <button onclick="cmd()">Press Here To Input Command</button>
+    <h2><a href="index.html"><span class="ui header"><div class="ui green big label">Exit PowerSSH</div></span></a></h2>
+</body>
+</html>
