@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
     <title>PowerSSH v0.3 Pre-Beta4 Terminal</title>
 </head>
@@ -18,13 +18,14 @@
                 alert("PowerSSH v0.3 Pre-Beta4  (C)Copyright 2022~2023 LF5 Synergies", "About");
             }
             else if (input == "echo") {
-                 alert(input);
+                input = prompt("Output What?", "Type Something Here...");
+                alert(input);
             }
             else if (inpur == "mc") {
-                window.open("mc.html")
+                window.open("mc.html");
             }
             else if (input == "imagex") {
-                 window.open("ms-paint://")
+                window.open("ms-paint://");
             }
             else if (input == "randnum") {
                  alert(Math.floor((Math.random() * 1919810) + 1));
