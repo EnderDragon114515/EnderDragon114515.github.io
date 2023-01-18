@@ -9,3 +9,5 @@
 ### Updated Home Page
 ## 0.3 Alpha Pre-Beta4:
 ### Updated VirtualDesktop Applications and ACPI,added feature PowerSSH
+## 0.3 Alpha Pre-Beta4_03:
+### Added Wiki On Github(There are entrance on Virutal Desktop)
