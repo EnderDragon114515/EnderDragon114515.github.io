@@ -13,6 +13,8 @@
 ### Added Wiki On Github(There are entrance on Virutal Desktop)
 ## 0.3 Alpha Pre-Beta4 Second Edition
 ### Updated command system and added clock(Requires Windows10/11)
+## 0.3 Alpha Pre-Beta4_02:
+### Updated Web Browser and added Sandbox
 
 ###### Hint:Try view file using internet explorer
 ###### Hint:Try Go To [`enderdragon114515.github.io/Storage/1`](https://enderdragon114515.github.io/Storage/1)
